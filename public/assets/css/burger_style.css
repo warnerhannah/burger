@@ -1,0 +1,23 @@
+img {
+    height: 200px;
+    width: 200px;
+}
+
+/* .container {
+    margin: 0 auto;
+} */
+
+#burgerslist {
+    display: flex;
+    padding: 20px;
+    justify-content: space-evenly
+}
+
+#new {
+    margin: 0 auto;
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
